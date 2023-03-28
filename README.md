@@ -6,7 +6,7 @@
 
 ![PedroKauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroKawan&show_icons=true&theme=dracula)
 
-## Learned technologies
+## Tecnologias
 <div style="display: inline_block">
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
