@@ -1,5 +1,5 @@
 
-### **Olá, eu sou o Pedro Kauã** 👋👨‍💻
+### **Olá, me chamo Pedro Kauã, Seja bem vindo!** 👋👨‍💻
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-kau%C3%A3-silva-dos-santos-52794226b/)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroKawan)
