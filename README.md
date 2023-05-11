@@ -15,6 +15,6 @@
 </div><br>
 
 <html>
-Apaixonado por tecnologia, e por sua evolução, desde sempre.<br>
-Comecei os estudos em Janeiro de 2023, atualmente estou aprimorando meus conhecimentos na linguagem Java.
+Apaixonado por tecnologia, e por sua evolução, desde criança.<br>
+Desde que descobri a programação sigo estudando diariamente para me aprimorar, e conseguir meu primeiro emprego na área!
 </html>
